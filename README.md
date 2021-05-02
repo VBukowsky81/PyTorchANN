@@ -11,11 +11,11 @@ PyTorch does is significantly differently. As you can see, it's written as a cla
 
 It is obvious why PyTorch is using this format - enterprise-scale development. All the big companies use PyTorch like Tesla, Facebook, almost all. And you can see why - everything is neatly broken into sections - ANN build is here, activation functions are separately, forward pass is built by hand, then we loop through our data, and backprop.
 
-So much better format for team efforts, and huge-size models, and generally larger scale development.
+So, much better format for team efforts, and huge-size models, and generally larger-scale development.
 
-Anyway, all the same stuff as before is here. Data preprocessing, then class, constructor, layer setups, forward passes. Then the loop feeds it all, and does backprop calculations.
+Anyway, all the same stuff as before is here. Data preprocessing, then class, constructor, layer setups, forward pass setup. Then the loop feeds it all, and does backprop calculations.
 
-This time model is predictor of diabetes rates, among given patient data set. Nothing fancy, typical regression task.
+This time model is predictor of diabetes rates, among given patent data set. Nothing fancy, typical regression task.
 
 Next, I will demonstrate CNN's.
 
