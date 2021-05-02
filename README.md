@@ -1,7 +1,7 @@
 # PyTorchANN
 Basic regression model, built using PyTorch
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/VBukowsky81/PyTorchANN/blob/main/PyTorchANNPic.jpg)
 
 Hello and good day, everyone!
 
