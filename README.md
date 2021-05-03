@@ -7,7 +7,7 @@ Hello and good day, everyone!
 
 Here I present a quick PyTorch-built regression ANN model. Nothing fancy. But I have shown similar example with Keras before, well, this time it's PyTorch.
 
-PyTorch does is significantly differently. As you can see, it's written as a class, and then data feeding, and epochs are run by a loop.
+PyTorch does it significantly differently. As you can see, it's written as a class, and then data feeding, and epochs are run by a loop.
 
 It is obvious why PyTorch is using this format - enterprise-scale development. All the big companies use PyTorch like Tesla, Facebook, almost all. And you can see why - everything is neatly broken into sections - ANN build is here, activation functions are separately, forward pass is built by hand, then we loop through our data, and backprop.
 
